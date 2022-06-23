@@ -38,6 +38,17 @@ In addition, the average score and percentages remain the same for:
 * the size bins
 * between charter and district
 
+When analyzing the spending bins, it is evident that spending more money per student does not translate to higher achievement on standardized testing. In fact, schools with a budget of less than $586 per student achieved the highest overall passing rate compared to all other spending brackets, and those in the highest bracket ($646-675) score the lowest. Therefore, the school board must consider other factors besides funding when deciding how to improve test scores. 
+
+One such factor is the type of institution conducting the education. As seen below, charter schools have an overall passing percentage that is 40% higher than that of the district schools. Therefore, there must be differences between these two school types that are causing the discrepnacy. Perhaps it is the way the material is taught, or perhaps there are differences between the type of students who attend charter versus district schools. In the school size summary table, there is a sharp difference in overall passing rates between large schools and medium or small schools. School with less than 2,000 students perform far better, but again we can only speculate from this data. 
+
+![Spending Bins Summary](Spending_Bins_Summary.png)
+![School Type Summary](School_Type_Summary.png)
+![School Size Summary](School_Size_Summary.png)
+
+
 ## Summary
+
+From this data, it appears that the schools achieving the lowest overall passing rates are those that either: 1) are district 2) spend more money on average per student 3) have a student population of 2,000 or more. These are important observations that must be reported to the school board. However, it is difficult to say with certainty why these discrepancies have occured - we can only speculate given only this data. 
 
 Despite having to remove the 9th grade scores for THS, the average test scores and passing percentages remained the almost exactly the same. Therefore, the data should be presented to the school board, though the removal of data should be noted during the presentation. 
