@@ -27,8 +27,8 @@ As seen above, Thomas High School maintains its ranking as the 2nd top-scoring s
 
 Even when looking at the scores and passing percentages of THS exclusively, there appears to be no significant difference before or after removing 9th grade scores. 
 
-![Before](analysis/THS_Initial.png)
-![After](analysis/THS_Final.png)
+![Before](images/THS_Initial.png)
+![After](images/THS_Final.png)
 
 The differences in percent-passing are all 0.3% or less, and do not effect the school ranking for THS. 
 
@@ -42,9 +42,9 @@ When analyzing the spending bins, it is evident that spending more money per stu
 
 One such factor is the type of institution conducting the education. As seen below, charter schools have an overall passing percentage that is 40% higher than that of the district schools. Therefore, there must be differences between these two school types that are causing the discrepnacy. Perhaps it is the way the material is taught, or perhaps there are differences between the type of students who attend charter versus district schools. These are only speculations and cannot be verified with this data. In the school size summary table, there is a sharp difference in overall passing rates between large schools and medium or small schools. School with less than 2,000 students perform far better, but again we can only speculate why from this data. 
 
-![Spending Bins Summary](analysis/Spending_Bins_Summary.png)
-![School Type Summary](analysis/School_Type_Summary.png)
-![School Size Summary](analysis/School_Size_Summary.png)
+![Spending Bins Summary](images/Spending_Bins_Summary.png)
+![School Type Summary](images/School_Type_Summary.png)
+![School Size Summary](images/School_Size_Summary.png)
 
 
 ## Summary
