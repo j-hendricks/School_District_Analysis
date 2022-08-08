@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview
-In this project, we are tasked with analyzing standardized test data for several schools in the same school district, the goal being to find performance trends and patterns. This data will be used by the local school board to make decisions on school funding in the school district. The school board has provided us with school funding data and standardized test scores, which were separated into csv files containing ![school data](schools_complete.csv) and ![student data](students_complete.csv). The ![analysis](PyCitySchools_Challenge.ipynb) was performed using Python and Jupyter Notebook.
+In this project, we are tasked with analyzing standardized test data for several schools in the same school district, the goal being to find performance trends and patterns. This data will be used by the local school board to make decisions on school funding in the school district. The school board has provided us with school funding data and standardized test scores, which were separated into csv files containing ![school data](Resources/schools_complete.csv) and ![student data](Resources/students_complete.csv). The ![analysis](jupyter_notebook/PyCitySchools_Challenge.ipynb) was performed using Python and Jupyter Notebook.
 
 Two problems arose when analyzing the student data: 1) several student names contained incorrect prefixes and suffixes, such as MD or PhD. These misnomers were cleaned using basic string manipulation. 2) There were reports of cheating in the ninth grade class at Thomas High School (THS). As a result, standardized test scores had to be removed for these students, which only slightly altered the resulting statistics for THS.
 
@@ -27,8 +27,8 @@ As seen above, Thomas High School maintains its ranking as the 2nd top-scoring s
 
 Even when looking at the scores and passing percentages of THS exclusively, there appears to be no significant difference before or after removing 9th grade scores. 
 
-![Before](THS_Initial.png)
-![After](THS_Final.png)
+![Before](analysis/THS_Initial.png)
+![After](analysis/THS_Final.png)
 
 The differences in percent-passing are all 0.3% or less, and do not effect the school ranking for THS. 
 
@@ -42,9 +42,9 @@ When analyzing the spending bins, it is evident that spending more money per stu
 
 One such factor is the type of institution conducting the education. As seen below, charter schools have an overall passing percentage that is 40% higher than that of the district schools. Therefore, there must be differences between these two school types that are causing the discrepnacy. Perhaps it is the way the material is taught, or perhaps there are differences between the type of students who attend charter versus district schools. These are only speculations and cannot be verified with this data. In the school size summary table, there is a sharp difference in overall passing rates between large schools and medium or small schools. School with less than 2,000 students perform far better, but again we can only speculate why from this data. 
 
-![Spending Bins Summary](Spending_Bins_Summary.png)
-![School Type Summary](School_Type_Summary.png)
-![School Size Summary](School_Size_Summary.png)
+![Spending Bins Summary](analysis/Spending_Bins_Summary.png)
+![School Type Summary](analysis/School_Type_Summary.png)
+![School Size Summary](analysis/School_Size_Summary.png)
 
 
 ## Summary
